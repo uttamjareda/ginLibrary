@@ -3,7 +3,7 @@
 This guide provides instructions on how to set up and run the server for the "Gin Library" project on a local machine.
 
 ### Documentation
-- [Doc]([https://golang.org/dl/](https://docs.google.com/document/d/13VmPBMKZc4jLto4RTExTvoL47PXtsW8ku3-LSOICCew/edit?usp=sharing))
+- [Doc](https://docs.google.com/document/d/13VmPBMKZc4jLto4RTExTvoL47PXtsW8ku3-LSOICCew/edit?usp=sharing)
 
 ### Prerequisites
 
